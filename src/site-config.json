@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Mechanical Equipment Sales Inc",
+    "phone": "+17574900591",
+    "category": "HVAC company",
+    "city": "Virginia Beach",
+    "state": "VA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "HVAC Experts Serving Virginia Beach",
+      "heroSubline": "Mechanical Equipment Sales Inc delivers reliable heating and cooling solutions. Trust our experienced team for installations, repairs, and maintenance.",
+      "aboutTitle": "Decades of HVAC Expertise in Hampton Roads",
+      "aboutText": [
+        "Mechanical Equipment Sales Inc began with a simple mission: provide honest, dependable HVAC services to our neighbors in Virginia Beach. Founded by a team of experienced technicians, we understood the unique challenges of our coastal climate – from stifling summer humidity to the corrosive effects of salt air. We built our business on a commitment to quality workmanship and lasting solutions.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the options clearly, and execute the work efficiently. We believe in transparency and open communication every step of the way. We use only quality parts and proven techniques to ensure lasting performance and customer satisfaction. We aren't satisfied until you are.",
+        "We're proud to be a part of the Virginia Beach community. We actively support local initiatives and organizations, and we prioritize giving back to the area we call home. Your comfort is our business, and your trust is our greatest reward."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team has years of experience handling all types of HVAC systems."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "We're available around the clock to address urgent heating and cooling issues."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide upfront, honest pricing with no hidden fees."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We use only the best parts and techniques to ensure lasting performance."
+        }
+      ],
+      "ctaHeadline": "Get a Free Estimate!",
+      "ctaSubline": "Contact us today for reliable HVAC services in Virginia Beach."
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Fast, reliable AC repair services to keep you cool and comfortable in the Virginia Beach heat.",
+        "description": "Don't let a broken air conditioner ruin your summer. Mechanical Equipment Sales Inc provides prompt and dependable AC repair services throughout Virginia Beach. We understand the urgency of restoring cool air during our hot, humid summers. Our experienced technicians are equipped to diagnose and repair all makes and models of air conditioners, from central AC units to ductless mini-splits.\n\nWe address common AC problems such as refrigerant leaks, compressor failures, faulty fans, and electrical issues. We use advanced diagnostic tools to pinpoint the issue quickly and accurately. Our team will explain the problem clearly and provide you with the best repair options. We only use quality replacement parts to ensure lasting performance and reliability.\n\nLiving near the ocean exposes AC units to corrosive salt air. We take extra care to protect your equipment from the elements, extending its lifespan and preventing future problems. If your AC is making strange noises, blowing warm air, or not turning on at all, don't hesitate to call Mechanical Equipment Sales Inc for fast, reliable repair services.",
+        "process": [
+          "Step 1: Diagnose the problem using advanced diagnostic tools.",
+          "Step 2: Explain the repair options and provide a transparent quote.",
+          "Step 3: Complete the repair efficiently using quality parts.",
+          "Step 4: Test the system to ensure optimal performance."
+        ],
+        "benefits": [
+          "Faster cooling and improved energy efficiency",
+          "Extended lifespan of your AC unit",
+          "Reduced energy bills",
+          "Peace of mind knowing your AC is in good hands"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my AC needs repair?",
+            "answer": "Common signs include blowing warm air, making strange noises, leaking refrigerant, or not turning on at all. If you notice any of these issues, it's best to call a professional for an inspection."
+          },
+          {
+            "question": "How long will it take to repair my AC?",
+            "answer": "The repair time depends on the complexity of the issue. We strive to complete most repairs quickly and efficiently, often within the same day."
+          },
+          {
+            "question": "Do you offer emergency AC repair services?",
+            "answer": "Yes, we offer 24/7 emergency AC repair services to address urgent cooling issues. We understand that AC problems can happen at any time, and we're here to help."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "Air Conditioning Installation",
+        "shortDescription": "Expert AC installation services for homes and businesses in Virginia Beach.",
+        "description": "Upgrading your air conditioning system can significantly improve your comfort and energy efficiency. Mechanical Equipment Sales Inc provides professional AC installation services for homes and businesses in Virginia Beach. We'll help you choose the right AC system for your needs and ensure a seamless installation process.\n\nWe start with a thorough assessment of your property to determine the appropriate size and type of AC unit. We consider factors such as square footage, insulation, window placement, and sun exposure. We offer a wide range of AC systems from leading brands, including central AC units, ductless mini-splits, and heat pumps. Our team will explain the pros and cons of each option to help you make an informed decision.\n\nOur experienced technicians handle every aspect of the installation process, from removing the old unit to installing the new one. We ensure proper refrigerant levels, secure electrical connections, and optimal airflow. We also provide thorough testing and calibration to ensure your new AC system operates at peak performance. We're familiar with the unique challenges of installing AC systems in Virginia Beach homes, including older houses in the Oceanfront area and newer construction in Kempsville. We'll handle any obstacles with professionalism and expertise.",
+        "process": [
+          "Step 1: Assess your property to determine the right AC system.",
+          "Step 2: Remove the old unit and prepare the installation site.",
+          "Step 3: Install the new AC unit and connect all components.",
+          "Step 4: Test and calibrate the system to ensure optimal performance."
+        ],
+        "benefits": [
+          "Improved comfort and consistent cooling",
+          "Increased energy efficiency and lower energy bills",
+          "Quieter operation",
+          "Enhanced air quality"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right AC system for my home?",
+            "answer": "We'll assess your home's size, insulation, and other factors to recommend the best AC system for your needs. We'll also discuss your budget and preferences to help you make an informed decision."
+          },
+          {
+            "question": "How long does AC installation take?",
+            "answer": "The installation time depends on the complexity of the project. Most installations can be completed in one to two days."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "heating-repair",
+        "name": "Heating Repair",
+        "shortDescription": "Reliable heating repair services to keep your home warm during the Virginia Beach winter.",
+        "description": "When the winter chill hits Virginia Beach, a malfunctioning heating system can quickly make your home uncomfortable. Mechanical Equipment Sales Inc provides prompt and reliable heating repair services to restore warmth and comfort to your home. We service all types of heating systems, including furnaces, heat pumps, and boilers.\n\nOur experienced technicians are trained to diagnose and repair a wide range of heating problems. We address common issues such as pilot light problems, faulty thermostats, blower motor failures, and gas leaks. We use advanced diagnostic tools to pinpoint the source of the problem quickly and accurately. We'll explain the repair options clearly and provide you with an upfront quote.\n\nWe understand the importance of having a functioning heating system during the winter months. That's why we offer 24/7 emergency heating repair services. Whether your furnace breaks down in the middle of the night or your heat pump stops working on a weekend, we're here to help. We prioritize safety and efficiency in all our heating repairs. We use quality replacement parts and follow industry best practices to ensure lasting performance and reliability. We also offer preventative maintenance services to help you avoid costly heating repairs in the future.",
+        "process": [
+          "Step 1: Diagnose the heating problem using advanced diagnostic tools.",
+          "Step 2: Explain the repair options and provide a transparent quote.",
+          "Step 3: Complete the repair efficiently using quality parts.",
+          "Step 4: Test the system to ensure proper heating and safety."
+        ],
+        "benefits": [
+          "Restored warmth and comfort in your home",
+          "Improved energy efficiency",
+          "Reduced risk of carbon monoxide poisoning",
+          "Extended lifespan of your heating system"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my heating system needs repair?",
+            "answer": "Common signs include unusual noises, inconsistent heating, or a complete system failure. If you notice any of these issues, it's best to call a professional for an inspection."
+          },
+          {
+            "question": "What are the signs of a carbon monoxide leak?",
+            "answer": "Symptoms of carbon monoxide poisoning include headaches, dizziness, nausea, and confusion. If you suspect a carbon monoxide leak, evacuate your home immediately and call 911."
+          },
+          {
+            "question": "Do you offer emergency heating repair services?",
+            "answer": "Yes, we offer 24/7 emergency heating repair services to address urgent heating issues. We understand that heating problems can happen at any time, and we're here to help."
+          }
+        ]
+      },
+      {
+        "slug": "heating-installation",
+        "name": "Heating Installation",
+        "shortDescription": "Professional heating installation services for homes and businesses in Virginia Beach.",
+        "description": "Installing a new heating system is a significant investment that can improve your comfort, energy efficiency, and home value. Mechanical Equipment Sales Inc provides professional heating installation services for homes and businesses in Virginia Beach. We'll help you choose the right heating system for your needs and ensure a seamless installation process.\n\nWe start with a thorough assessment of your property to determine the appropriate size and type of heating system. We consider factors such as square footage, insulation, window placement, and climate zone. We offer a wide range of heating systems from leading brands, including furnaces, heat pumps, and boilers. Our team will explain the pros and cons of each option to help you make an informed decision.\n\nOur experienced technicians handle every aspect of the installation process, from removing the old unit to installing the new one. We ensure proper gas line connections, secure electrical wiring, and optimal airflow. We also provide thorough testing and calibration to ensure your new heating system operates at peak performance. We're familiar with the building codes and regulations in Virginia Beach, and we'll ensure your new heating system meets all requirements. We also offer financing options to make heating installation more affordable.",
+        "process": [
+          "Step 1: Assess your property to determine the right heating system.",
+          "Step 2: Remove the old unit and prepare the installation site.",
+          "Step 3: Install the new heating unit and connect all components.",
+          "Step 4: Test and calibrate the system to ensure optimal performance."
+        ],
+        "benefits": [
+          "Improved comfort and consistent heating",
+          "Increased energy efficiency and lower energy bills",
+          "Quieter operation",
+          "Enhanced air quality"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right heating system for my home?",
+            "answer": "We'll assess your home's size, insulation, and other factors to recommend the best heating system for your needs. We'll also discuss your budget and preferences to help you make an informed decision."
+          },
+          {
+            "question": "How long does heating installation take?",
+            "answer": "The installation time depends on the complexity of the project. Most installations can be completed in one to two days."
+          },
+          {
+            "question": "Do you offer financing options for heating installation?",
+            "answer": "Yes, we offer flexible financing options to make heating installation more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with our professional duct cleaning services in Virginia Beach.",
+        "description": "Over time, dust, pollen, mold, and other contaminants can accumulate in your air ducts, impacting your indoor air quality and potentially triggering allergies or respiratory problems. Mechanical Equipment Sales Inc offers comprehensive duct cleaning services to remove these contaminants and improve the air you breathe in your Virginia Beach home or business.\n\nOur experienced technicians use specialized equipment to thoroughly clean your air ducts. We start by inspecting your ductwork to identify any areas of concern, such as mold growth or rodent infestations. We then use powerful vacuums and brushes to dislodge and remove debris from the duct walls. We also clean your vents and registers to ensure optimal airflow.\n\nWe take extra care to protect your home during the duct cleaning process. We use drop cloths and plastic sheeting to prevent dust and debris from spreading. We also seal off vents and registers to minimize air leakage. Our duct cleaning services can help improve your indoor air quality, reduce allergy symptoms, and increase the efficiency of your HVAC system. We recommend duct cleaning every 3-5 years, or more frequently if you have pets, allergies, or respiratory problems. Living near the oceanfront, properties in Virginia Beach are more susceptible to mold growth; routine duct cleaning is a preventative measure.",
+        "process": [
+          "Step 1: Inspect your ductwork to identify areas of concern.",
+          "Step 2: Seal off vents and registers to prevent air leakage.",
+          "Step 3: Use powerful vacuums and brushes to remove debris from the duct walls.",
+          "Step 4: Clean your vents and registers to ensure optimal airflow."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergy symptoms",
+          "Increased HVAC system efficiency",
+          "Elimination of odors"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my air ducts cleaned?",
+            "answer": "We recommend duct cleaning every 3-5 years, or more frequently if you have pets, allergies, or respiratory problems."
+          },
+          {
+            "question": "Can duct cleaning help with allergies?",
+            "answer": "Yes, duct cleaning can help reduce allergy symptoms by removing dust, pollen, and other allergens from your air ducts."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "We take precautions to protect your home during the duct cleaning process. We use drop cloths and plastic sheeting to prevent dust and debris from spreading."
+          }
+        ]
+      },
+      {
+        "slug": "heat-pump-services",
+        "name": "Heat Pump Services",
+        "shortDescription": "Comprehensive heat pump services for year-round comfort in Virginia Beach.",
+        "description": "Heat pumps are a popular choice for heating and cooling in Virginia Beach due to their energy efficiency and versatility. Mechanical Equipment Sales Inc offers a full range of heat pump services, including installation, repair, and maintenance. We're experienced in working with all types of heat pumps, including air-source, geothermal, and ductless mini-split systems.\n\nOur heat pump installation services include a thorough assessment of your property to determine the appropriate size and type of unit. We consider factors such as square footage, insulation, and climate zone. We offer a wide range of heat pump systems from leading brands, and our team will explain the pros and cons of each option to help you make an informed decision.\n\nOur heat pump repair services are available 24/7 to address urgent heating and cooling issues. We're trained to diagnose and repair a wide range of heat pump problems, such as refrigerant leaks, compressor failures, and defrost cycle issues. We use quality replacement parts and follow industry best practices to ensure lasting performance and reliability.\n\nWe also offer preventative maintenance services to help you avoid costly heat pump repairs in the future. Our maintenance services include cleaning the coils, inspecting the refrigerant levels, and testing the electrical components.",
+        "process": [
+          "Step 1: Assess your property to determine the right heat pump system.",
+          "Step 2: Install the new heat pump unit and connect all components.",
+          "Step 3: Diagnose and repair any heat pump issues.",
+          "Step 4: Provide preventative maintenance services to extend the lifespan of your heat pump."
+        ],
+        "benefits": [
+          "Year-round comfort",
+          "Energy efficiency",
+          "Lower energy bills",
+          "Environmentally friendly"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a heat pump?",
+            "answer": "Heat pumps are energy-efficient, environmentally friendly, and can provide both heating and cooling. They're a great option for homes in mild climates like Virginia Beach."
+          },
+          {
+            "question": "How long do heat pumps last?",
+            "answer": "With proper maintenance, heat pumps can last 15-20 years."
+          },
+          {
+            "question": "Do you offer financing options for heat pump installation?",
+            "answer": "Yes, we offer flexible financing options to make heat pump installation more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Virginia Beach",
+        "slug": "virginia-beach-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc is proud to serve the Virginia Beach community with top-notch HVAC services. We understand the unique climate challenges of coastal Virginia, from the humid summers to the occasional winter chill. Our team is equipped to handle all your heating, cooling, and ventilation needs, ensuring your home or business stays comfortable year-round.\n\nWe offer a comprehensive range of services, including HVAC system installation, repair, and maintenance. Whether you need a new air conditioner installed, your furnace repaired, or routine maintenance to keep your system running efficiently, our experienced technicians are here to help. We are committed to providing reliable and affordable solutions to keep you comfortable.\n\nMechanical Equipment Sales Inc is dedicated to providing the best HVAC services for Virginia Beach. We are your neighbors, and we treat every customer like a member of our family.",
+        "localContext": "Virginia Beach is a vibrant coastal city known for its beautiful beaches, thriving tourism industry, and strong military presence.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Norfolk",
+        "slug": "norfolk-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc extends its expert HVAC services to the city of Norfolk, VA. We understand the diverse needs of Norfolk residents and businesses, from historic homes to modern commercial buildings. Our skilled technicians are well-versed in handling a wide range of HVAC systems, ensuring optimal comfort and energy efficiency.\n\nWe offer comprehensive HVAC solutions, including installation, repair, and maintenance services. Whether you're looking to upgrade your existing system, need a quick repair, or want to schedule routine maintenance to prevent future problems, we've got you covered. We prioritize customer satisfaction and strive to deliver prompt, reliable, and affordable services.\n\nMechanical Equipment Sales Inc is committed to serving the Norfolk community with the highest standards of HVAC expertise. We are dedicated to keeping your homes and businesses comfortable, safe, and energy-efficient.",
+        "localContext": "Norfolk is a historic city with a large naval base, a thriving arts scene, and a diverse population.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Chesapeake",
+        "slug": "chesapeake-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc is dedicated to providing exceptional HVAC services to the residents and businesses of Chesapeake, VA. We understand the unique needs of this growing community, from sprawling residential neighborhoods to bustling commercial districts. Our team of experienced technicians is equipped to handle all your heating, cooling, and ventilation requirements.\n\nWe offer a comprehensive range of HVAC services, including installation, repair, and maintenance. Whether you need a new system installed, emergency repairs, or routine maintenance to keep your system running smoothly, we're here to help. We are committed to providing reliable, affordable, and efficient solutions to ensure your comfort and peace of mind.\n\nMechanical Equipment Sales Inc is proud to serve the Chesapeake community with the highest standards of HVAC expertise. We treat every customer like a member of our family, and we are committed to providing personalized service that exceeds your expectations.",
+        "localContext": "Chesapeake is a rapidly growing city known for its excellent schools, family-friendly atmosphere, and diverse economy.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Norfolk",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Portsmouth",
+        "slug": "portsmouth-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc is proud to offer its expert HVAC services to the historic city of Portsmouth, VA. We understand the unique challenges of maintaining comfortable indoor environments in Portsmouth's diverse range of buildings, from historic homes to modern businesses. Our skilled technicians are well-equipped to handle all your heating, cooling, and ventilation needs.\n\nWe provide a comprehensive range of HVAC services, including installation, repair, and maintenance. Whether you're looking to upgrade your existing system, need a quick repair, or want to schedule routine maintenance to keep your system running efficiently, we've got you covered. We are dedicated to providing prompt, reliable, and affordable solutions to ensure your comfort and satisfaction.\n\nMechanical Equipment Sales Inc is committed to serving the Portsmouth community with the highest standards of HVAC expertise. We are dedicated to keeping your homes and businesses comfortable, safe, and energy-efficient.",
+        "localContext": "Portsmouth is a historic city with a rich maritime heritage, a charming downtown area, and a growing arts and culture scene.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Suffolk",
+        "slug": "suffolk-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc is pleased to extend its professional HVAC services to the city of Suffolk, VA. We understand the unique needs of Suffolk residents and businesses, from rural homes to commercial establishments. Our experienced technicians are well-versed in handling a wide range of HVAC systems, ensuring optimal comfort and energy efficiency.\n\nWe offer comprehensive HVAC solutions, including installation, repair, and maintenance services. Whether you're looking to upgrade your existing system, need a quick repair, or want to schedule routine maintenance to prevent future problems, we've got you covered. We prioritize customer satisfaction and strive to deliver prompt, reliable, and affordable services.\n\nMechanical Equipment Sales Inc is committed to serving the Suffolk community with the highest standards of HVAC expertise. We are dedicated to keeping your homes and businesses comfortable, safe, and energy-efficient.",
+        "localContext": "Suffolk is a large, primarily rural city known for its agricultural heritage, growing industrial sector, and close-knit community.",
+        "nearbyAreas": [
+          "Chesapeake",
+          "Portsmouth",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Hampton",
+        "slug": "hampton-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc is proud to offer our expert HVAC services to the city of Hampton, VA. We understand the unique climate challenges of the Hampton Roads area and are committed to providing reliable and efficient solutions for your heating and cooling needs. Our experienced technicians are equipped to handle all types of HVAC systems, ensuring your comfort and peace of mind.\n\nWe offer a full range of HVAC services, including installation, repair, and maintenance. Whether you need a new air conditioner installed, your furnace repaired, or routine maintenance to keep your system running smoothly, we're here to help. We are dedicated to providing prompt and professional service at competitive prices.\n\nMechanical Equipment Sales Inc is committed to serving the Hampton community with the highest standards of quality and customer satisfaction. We are your neighbors, and we treat every customer with the respect and care they deserve.",
+        "localContext": "Hampton is a historic city with a strong military presence, a vibrant waterfront, and a rich cultural heritage.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Newport News",
+        "slug": "newport-news-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc is dedicated to providing top-quality HVAC services to the residents and businesses of Newport News, VA. We understand the diverse needs of this thriving community and are committed to delivering reliable and efficient solutions for all your heating, cooling, and ventilation requirements. Our team of experienced technicians is equipped to handle any HVAC challenge.\n\nWe offer a comprehensive range of HVAC services, including installation, repair, and maintenance. Whether you're looking to upgrade your existing system, need emergency repairs, or want to schedule routine maintenance to keep your system running at peak performance, we've got you covered. We are committed to providing prompt, professional, and affordable service.\n\nMechanical Equipment Sales Inc is proud to serve the Newport News community with the highest standards of HVAC expertise. We are dedicated to ensuring your comfort and satisfaction, and we treat every customer like a member of our family.",
+        "localContext": "Newport News is a major shipbuilding center with a rich history, a diverse economy, and a strong sense of community.",
+        "nearbyAreas": [
+          "Hampton",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Poquoson",
+        "slug": "poquoson-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc is pleased to offer our expert HVAC services to the community of Poquoson, VA. We understand the unique character of this coastal city and are committed to providing reliable and efficient solutions for all your heating and cooling needs. Our experienced technicians are equipped to handle a wide range of HVAC systems, ensuring your comfort and well-being.\n\nWe offer a comprehensive range of HVAC services, including installation, repair, and maintenance. Whether you need a new system installed, a quick repair, or routine maintenance to keep your system running smoothly, we're here to help. We are dedicated to providing prompt, professional, and affordable service to our Poquoson customers.\n\nMechanical Equipment Sales Inc is committed to serving the Poquoson community with the highest standards of quality and customer satisfaction. We are your neighbors, and we treat every customer with the respect and care they deserve.",
+        "localContext": "Poquoson is a small, coastal city known for its strong sense of community, excellent schools, and beautiful waterfront.",
+        "nearbyAreas": [
+          "Hampton",
+          "Newport News",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Yorktown",
+        "slug": "yorktown-va",
+        "state": "VA",
+        "content": "Mechanical Equipment Sales Inc is honored to provide HVAC services to Yorktown, VA. We recognize the importance of maintaining comfortable and efficient homes and businesses in this historic area. Our technicians are trained to deal with a variety of systems and are ready to address your needs.\n\nWe provide a spectrum of HVAC services, from new installations to repairs and regular maintenance. Whether you require a new air conditioning unit, furnace repair, or want to maintain your system, we are here to help. We pride ourselves on providing reliable and affordable solutions.\n\nMechanical Equipment Sales Inc is dedicated to Yorktown. We treat every customer as part of our extended family.",
+        "localContext": "Yorktown is a historic area known for its role in the Revolutionary War and its beautiful riverside location.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Williamsburg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC went out on the hottest day of the summer! Mechanical Equipment Sales Inc came out quickly and fixed it within an hour. The technician was professional and explained everything clearly. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Furnace Installation",
+        "text": "We recently had a new furnace installed by Mechanical Equipment Sales Inc. The installation process was smooth and efficient. The team was very knowledgeable and answered all of our questions. We're very happy with the new furnace.",
+        "date": "2025-01-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I noticed a significant improvement in my indoor air quality after Mechanical Equipment Sales Inc cleaned my air ducts. I have allergies, and I've been breathing much easier since the cleaning. The technicians were thorough and professional.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Heat Pump Repair",
+        "text": "My heat pump stopped working during a cold snap. Mechanical Equipment Sales Inc came out promptly and fixed the problem quickly. I appreciate their fast and reliable service!",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Jessica T.",
+        "rating": 4,
+        "service": "AC Installation",
+        "text": "We had Mechanical Equipment Sales Inc install a new AC unit in our home. The installation process was seamless, and the team was very professional. The AC is working great, and our home is much cooler now. The price was very competitive as well.",
+        "date": "2024-08-22"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "HVAC Maintenance",
+        "text": "I've been using Mechanical Equipment Sales Inc for routine HVAC maintenance for years, and I'm always impressed with their service. They're reliable, professional, and always do a great job. Highly recommended for keeping your system in top shape!",
+        "date": "2025-03-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "HVAC Virginia Beach | Mechanical Equipment Sales",
+        "description": "Reliable HVAC services in Virginia Beach. AC & heating repair, installation, and maintenance. Call +17574900591 for a free estimate!"
+      },
+      "about": {
+        "title": "About Us | Mechanical Equipment Sales Inc",
+        "description": "Learn about Mechanical Equipment Sales Inc, your trusted HVAC provider in Virginia Beach. Decades of experience and commitment to quality."
+      },
+      "services": {
+        "title": "HVAC Services | Mechanical Equipment Sales Inc",
+        "description": "Comprehensive HVAC services in Virginia Beach. AC repair, heating installation, duct cleaning, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Us | Mechanical Equipment Sales Inc",
+        "description": "Contact Mechanical Equipment Sales Inc for HVAC services in Virginia Beach. Call +17574900591 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Mechanical Equipment Sales Inc",
+        "description": "Read what our customers are saying about Mechanical Equipment Sales Inc. Trusted HVAC services in Virginia Beach. See why we're the best choice!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Mechanical Equipment Sales Inc",
+        "description": "Mechanical Equipment Sales Inc provides HVAC services in Virginia Beach and surrounding areas. See our full service area list."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "heating-repair": "/images/service-heating-repair.webp",
+      "heating-installation": "/images/service-heating-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "heat-pump-services": "/images/service-heat-pump-services.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heating-repair": {
+        "src": "/images/service-heating-repair.webp",
+        "srcset": "/images/service-heating-repair-400w.webp 400w, /images/service-heating-repair-800w.webp 800w, /images/service-heating-repair-1200w.webp 1200w, /images/service-heating-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heating-installation": {
+        "src": "/images/service-heating-installation.webp",
+        "srcset": "/images/service-heating-installation-400w.webp 400w, /images/service-heating-installation-800w.webp 800w, /images/service-heating-installation-1200w.webp 1200w, /images/service-heating-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heat-pump-services": {
+        "src": "/images/service-heat-pump-services.webp",
+        "srcset": "/images/service-heat-pump-services-400w.webp 400w, /images/service-heat-pump-services-800w.webp 800w, /images/service-heat-pump-services-1200w.webp 1200w, /images/service-heat-pump-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
